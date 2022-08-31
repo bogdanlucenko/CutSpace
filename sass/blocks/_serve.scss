@@ -1,0 +1,40 @@
+.serve {
+  position: relative;
+  padding-top: 0px;
+  padding-bottom: 120px;
+
+  &__heading {
+    margin-bottom: 45px;
+    text-align: center;
+    position: relative;
+    z-index: 2;
+
+    .title {
+      margin-bottom: 10px;
+    }
+  }
+
+  &__row {
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+    column-gap: 30px;
+    position: relative;
+    z-index: 2;
+  }
+}
+
+.serve:before {
+  content: "";
+  display: block;
+  width: 100%;
+  height: 100%;
+  background: #f5f6fa;
+
+  top: -50%;
+  bottom: 50%;
+  left: 0;
+
+  position: absolute;
+  z-index: 1;
+}
