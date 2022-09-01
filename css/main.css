@@ -176,7 +176,7 @@ body {
   display: block;
   width: 24px;
   height: 19px;
-  background-image: url(./../../img/icons/meil.svg);
+  background-image: url(../img/icons/meil.svg);
 }
 .form--active {
   box-shadow: 0px 17px 42px rgba(247, 132, 52, 0.27);
@@ -226,7 +226,7 @@ body {
   display: block;
   width: 12px;
   height: 12px;
-  background-image: url("../../img/icons/play.svg");
+  background-image: url(../img/icons/play.svg);
   background-size: initial;
   background-repeat: no-repeat;
 }
@@ -346,7 +346,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  background: url(./../../img/cta/oval-bottom-left.svg) bottom left -186px no-repeat, url(./../../img/cta/oval-top-right.svg) right top no-repeat;
+  background: url(../img/cta/oval-bottom-left.svg) bottom left -186px no-repeat, url(../img/cta/oval-top-right.svg) right top no-repeat;
 }
 .cta__text p {
   width: 320px;
@@ -508,7 +508,7 @@ body {
   top: -40px;
   width: 80px;
   height: 80px;
-  background-image: url("./../../img/testimonials/design-element.svg");
+  background-image: url(../img/testimonials/design-element.svg);
   background-repeat: no-repeat;
 }
 
@@ -579,7 +579,7 @@ body {
   position: relative;
   padding-top: 200px;
   padding-bottom: 55px;
-  background-image: url(./../../img/contacts/bg.svg);
+  background-image: url(../img/contacts/bg.svg);
   background-size: cover;
   color: #fff;
 }
@@ -591,7 +591,7 @@ body {
   display: block;
   width: 743px;
   height: 372px;
-  background-image: url("./../../img/contacts/oval.svg");
+  background-image: url(../img/contacts/oval.svg);
   background-size: initial;
 }
 .contacts:after {
@@ -603,7 +603,7 @@ body {
   width: 478px;
   height: 547px;
   margin-left: 79px;
-  background-image: url("./../../img/contacts/girl.png");
+  background-image: url(../img/contacts/girl.png);
   background-size: initial;
 }
 
