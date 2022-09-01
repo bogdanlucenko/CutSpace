@@ -339,14 +339,14 @@ body {
   border-radius: 0 20px 0 0;
 }
 .cta__text {
-  width: 550px;
+  width: 554px;
   padding-left: 95px;
   padding-right: 40px;
   box-sizing: border-box;
   display: flex;
   flex-direction: column;
   justify-content: center;
-  background: url(../img/cta/oval-bottom-left.svg) bottom left -186px no-repeat, url(../img/cta/oval-top-right.svg) right top no-repeat;
+  background-image: url(../img/cta/oval-bottom-left.svg) bottom left -186px no-repeat, url(../img/cta/oval-top-right.svg) right top no-repeat;
 }
 .cta__text p {
   width: 320px;
